@@ -1,0 +1,1 @@
+import 'package:flutter/cupertino.dart';class WeatherMedia {  final Image image;  final List<Color> colors;  WeatherMedia({    this.image,    this.colors  });}

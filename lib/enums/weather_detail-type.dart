@@ -1,0 +1,1 @@
+enum WeatherDetailType {  minimum,  maximum,  sunrise,  sunset,  wind,  waves,  precipitation,  humidity}
